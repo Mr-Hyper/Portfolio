@@ -2,9 +2,12 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/emadh-miah/)
 
-## Languages: C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
-## Frameworks: .NET, Qt, Flask, Unity, NUnit
-## General: Stakeholder Management, Agile Methodologies, Test Driven Development
+## Languages: 
+C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
+## Frameworks: 
+.NET, Qt, Flask, Unity, NUnit
+## General: 
+Stakeholder Management, Agile Methodologies, Test Driven Development
 
 ## Work Experience
 **Audit Associate @ Deloitte (_Sept 2023 -  Present_)**
@@ -17,10 +20,10 @@
 - **Certificate Level Exams:** Assurance, Accounting, Principles Of Taxation, Management Information, Business Technology & Finance.
 
 **BSc Computer Science With High Performance Graphics & Games Engineering @ University Of Leeds (_Sept 2020 - Aug 2022_)**
-- **Dropped out after the second year.**
+- Dropped out after the second year.
 
 **A-Levels @ Luton Sixth Form College (_Sept 2018 - Aug 2020_)**
-- **Computer Science, Mathematics, Physics**
+- Computer Science, Mathematics, Physics
 
 **GCSEs @ The Stockwood Park Academy (_Sept 2013 - Aug 2018_)**
-- **Mathematics, Biology, Chemistry, Physics, English Language, English Literature, Computer Science, Geography, Spanish**
+- Mathematics, Biology, Chemistry, Physics, English Language, English Literature, Computer Science, Geography, Spanish
