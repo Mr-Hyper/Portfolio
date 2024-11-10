@@ -43,7 +43,7 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 ## Work Experience
 **Audit Associate @ Deloitte | _Sept 2023 -  Present_**
 - Worked within teams to liaise with **Life Science & Healthcare clients** on **statutory audits**, **planning engagements** and **testing key balances**.
-- Was able to turn around working papers **10% faster** than precious audit team members.
+- Was able to turn around working papers **10% faster** than previous audit team members.
 - Consistently produced high quality audit documentation, reducing **senior review times by 2 hours**.
 
 ![First Month At Deloitte](https://github.com/user-attachments/assets/8e5351ab-1ec4-4af2-adab-9a0342a93c4d)
