@@ -22,8 +22,8 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 **BSc Computer Science With High Performance Graphics & Games Engineering @ University Of Leeds (_Sept 2020 - Aug 2022_)**
 - Dropped out after the second year.
 
-**A-Levels @ Luton Sixth Form College (_Sept 2018 - Aug 2020_)**
+**A-Levels @ [REDACTED] (_Sept 2018 - Aug 2020_)**
 - Computer Science, Mathematics, Physics
 
-**GCSEs @ The Stockwood Park Academy (_Sept 2013 - Aug 2018_)**
+**GCSEs @ [REDACTED] (_Sept 2013 - Aug 2018_)**
 - Mathematics, Biology, Chemistry, Physics, English Language, English Literature, Computer Science, Geography, Spanish
