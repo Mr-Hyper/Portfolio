@@ -10,7 +10,7 @@ C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
 Stakeholder Management, Agile Methodologies, Test Driven Development
 
 ## Projects
-**Cyber - Mobile Game | _June 2022 - April 2024_**
+**Cyber - Mobile Game | [iOS](https://apps.apple.com/us/app/cyber-project-eris/id6447302602) | [Android](https://play.google.com/store/apps/details?id=com.HyperoidGames.ProjectEris) | _June 2022 - April 2024_**
 - Using **C#** and the **Unity Engine**, I created a mobile game that was trying to bring the best aspects of the looter-shooter genre over to the mobile platforms. 
 - **Released prototype in April 2023** with a dozen downloads between iOS/Android. Received negative feedback. 
 - **Iterated and launched demo in April 2024** on both platforms, **organically grew to 100+ on each platform** soon after launch. Received mixed feedback.
@@ -30,7 +30,7 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 - I also designed the GUIs for the editor, and implemented functionality such as: **editor timeline, video metadata/tagging, trimming/combining clips, rendering/exporting edits**.
 - Our team scored **87% on project deliverables** and I received **80% on my individual report**.
 
-**VR For Mental Health | Technical Report | _Nov 2021 - Dec 2021_**
+**VR For Mental Health - Technical Report | _Nov 2021 - Dec 2021_**
 - Conducted individual research on how **Virtual Reality** could be used to treat **mental health**.
 - Collated and analysed numerous academic studies/papers to write a **1500-word report** on issues relating to the topic and gave evidence-based projections for the next 10+ years.
 - The findings in my report were presented at a keynote speech to various leaders in the Healthcare industry - **received commendation from speaker**.
@@ -45,6 +45,8 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 - Worked within teams to liaise with **Life Science & Healthcare clients** on **statutory audits**, **planning engagements** and **testing key balances**.
 - Was able to turn around working papers **10% faster** than precious audit team members.
 - Consistently produced high quality audit documentation, reducing **senior review times by 2 hours**.
+
+![First Month At Deloitte](https://github.com/user-attachments/assets/8e5351ab-1ec4-4af2-adab-9a0342a93c4d)
 
 ## Education
 **ACA @ Institute Of Chartered Accountants In England And Wales | _Sept 2023 - Present_**
