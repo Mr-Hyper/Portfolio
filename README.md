@@ -1,7 +1,5 @@
-# Emadh Miah Portfolio
+# Portfolio
 
-### Mobile: +447756111674
-### Email: emadh.miah@hotmail.com
 ### [LinkedIn](https://www.linkedin.com/in/emadh-miah/)
 
 ## Languages: C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
