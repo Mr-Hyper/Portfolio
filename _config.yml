@@ -1,5 +1,5 @@
-title: Emadh Miah Portfolio
+title: Portfolio
 logo: /assets/images/headshot.jpg
 #description: [insert text below logo here]
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
