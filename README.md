@@ -10,7 +10,7 @@ C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
 Stakeholder Management, Agile Methodologies, Test Driven Development
 
 ## Projects
-**Cyber - Mobile Game | [iOS](https://apps.apple.com/us/app/cyber-project-eris/id6447302602) | [Android](https://play.google.com/store/apps/details?id=com.HyperoidGames.ProjectEris) | _June 2022 - April 2024_**
+**Cyber - Mobile Game | [Download On iOS](https://apps.apple.com/us/app/cyber-project-eris/id6447302602) | [Download On Google Play](https://play.google.com/store/apps/details?id=com.HyperoidGames.ProjectEris) | _June 2022 - April 2024_**
 - Using **C#** and the **Unity Engine**, I created a mobile game that was trying to bring the best aspects of the looter-shooter genre over to the mobile platforms. 
 - **Led a team of freelancers** during various stages of development, coordinating between game design, art and programming. 
 - **Released prototype in April 2023, iterated and launched demo in April 2024**. **Organically grew to 100+ downloads on each platform** soon after launch. Received mixed reviews.
@@ -41,10 +41,15 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 - Collated and analysed numerous academic studies/papers to write a **1500-word report** on issues relating to the topic and gave evidence-based projections for the next 10+ years.
 - The findings in my report were presented at a keynote speech to various leaders in the Healthcare industry - **received commendation from speaker**.
 
-**BB POS - Point Of Sale System | _June 2019 - March 2020_**
+**BB POS - Point Of Sale System | [Project Report](https://github.com/user-attachments/files/17706909/A2.Project.Report.pdf) | _June 2019 - March 2020_**
 - Developed a point-of-sale system for restaurants using **Visual Basic** and **.NET framework**.
 - The system covered routine functions like **taking orders, storing/printing orders, cash and card payments etc**.
 - Ranked in **top 5 for best project within my year**.
+
+![Desktop Screenshot 1](https://github.com/user-attachments/assets/3c64605b-4bc7-4ca7-bb29-a2247bb14515)
+![Desktop Screenshot 2](https://github.com/user-attachments/assets/adfe84ee-3185-4f59-9ac2-12d8929faf61)
+![Desktop Screenshot 3](https://github.com/user-attachments/assets/2c7932c3-d488-4e32-afe1-6a8fee6023f5)
+![Desktop Screenshot 4](https://github.com/user-attachments/assets/0149cd14-15e5-4ae6-bdef-08e7d9fbd04f)
 
 ## Work Experience
 **Audit Associate @ Deloitte | _Sept 2023 -  Present_**
