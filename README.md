@@ -12,8 +12,8 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 ## Projects
 **Cyber - Mobile Game | [iOS](https://apps.apple.com/us/app/cyber-project-eris/id6447302602) | [Android](https://play.google.com/store/apps/details?id=com.HyperoidGames.ProjectEris) | _June 2022 - April 2024_**
 - Using **C#** and the **Unity Engine**, I created a mobile game that was trying to bring the best aspects of the looter-shooter genre over to the mobile platforms. 
-- **Released prototype in April 2023** with a dozen downloads between iOS/Android. Received negative feedback. 
-- **Iterated and launched demo in April 2024** on both platforms, **organically grew to 100+ downloads on each platform** soon after launch. Received mixed feedback.
+- **Led a team of freelancers** during various stages of development, coordinating between game design, art and programming. 
+- **Released prototype in April 2023, iterated and launched demo in April 2024**. **Organically grew to 100+ downloads on each platform** soon after launch. Received mixed reviews.
 
 ![Cyber Banner Wallpaper](https://github.com/user-attachments/assets/11b3b71b-158e-455a-abde-84571337ded2)
 ![Phone Screenshot 2](https://github.com/user-attachments/assets/2b8ba8c7-a0dc-479d-a478-e994a84eff49)
