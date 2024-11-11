@@ -36,7 +36,7 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 - I also designed the GUIs for the editor, and implemented functionality such as: **editor timeline, video metadata/tagging, trimming/combining clips, rendering/exporting edits**.
 - Our team scored **87% on project deliverables** and I received **80% on my individual report**.
 
-**VR For Mental Health - Technical Report | _Nov 2021 - Dec 2021_**
+**VR For Mental Health - [Technical Report](https://github.com/user-attachments/files/17706620/Technical.Report.pdf) | _Nov 2021 - Dec 2021_**
 - Conducted individual research on how **Virtual Reality** could be used to treat **mental health**.
 - Collated and analysed numerous academic studies/papers to write a **1500-word report** on issues relating to the topic and gave evidence-based projections for the next 10+ years.
 - The findings in my report were presented at a keynote speech to various leaders in the Healthcare industry - **received commendation from speaker**.
