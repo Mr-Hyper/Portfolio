@@ -42,6 +42,10 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 - Collated and analysed numerous academic studies/papers to write a **1500-word report** on issues relating to the topic and gave evidence-based projections for the next 10+ years.
 - The findings in my report were presented at a keynote speech to various leaders in the Healthcare industry - **received commendation from speaker**.
 
+![Technical Report Screenshot 1](https://github.com/user-attachments/assets/1ea76fc6-b465-44c9-8212-0577bc225bb1)
+![Technical Report Screenshot 2](https://github.com/user-attachments/assets/2eab6a68-17e2-495e-98b6-d4c0cfe40ffb)
+![Technical Report Screenshoty 3](https://github.com/user-attachments/assets/4e39a325-de04-4518-b7e9-729abe1c5449)
+
 **BB POS - Point Of Sale System | [Project Report](https://github.com/user-attachments/files/17706909/A2.Project.Report.pdf) | _June 2019 - March 2020_**
 - Developed a point-of-sale system for restaurants using **Visual Basic** and **.NET framework**.
 - The system covered routine functions like **taking orders, storing/printing orders, cash and card payments etc**.
