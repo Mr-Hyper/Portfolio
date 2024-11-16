@@ -39,8 +39,8 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 
 **VR For Mental Health - [Technical Report](https://github.com/user-attachments/files/17706620/Technical.Report.pdf) | _Nov 2021 - Dec 2021_**
 - Conducted individual research on how **Virtual Reality** could be used to treat **mental health**.
-- Collated and analysed numerous academic studies/papers to write a **1500-word report** on issues relating to the topic and gave evidence-based projections for the next 10+ years.
-- The findings in my report were presented at a keynote speech to various leaders in the Healthcare industry - **received commendation from speaker**.
+- Collated and analysed numerous academic studies/papers to write a **1400-word report** on issues relating to the topic and gave evidence-based projections for the next 10+ years.
+- The findings in my report were presented at a keynote speech to various leaders in the Healthcare industry - **received commendation from speaker for my thorough research and analysis**.
 
 ![Technical Report Screenshot 1](https://github.com/user-attachments/assets/1ea76fc6-b465-44c9-8212-0577bc225bb1)
 ![Technical Report Screenshot 2](https://github.com/user-attachments/assets/2eab6a68-17e2-495e-98b6-d4c0cfe40ffb)
