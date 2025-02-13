@@ -11,6 +11,11 @@ C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
 Stakeholder Management, Agile Methodologies, Test Driven Development
 
 ## Projects
+**Project Weplar - Mobile Game | iOS & Android | _May 2024 - Present_**
+- Using **C#** and the **Unity Engine**, I am creating a mobile game that is trying to be a combination of The Sims and Club Penguin, and bring it over to the mobile platforms.
+
+[Learn more](ProjectWeplar.md)
+
 **Cyber - Mobile Game | [Download On iOS](https://apps.apple.com/us/app/cyber-project-eris/id6447302602) | [Download On Google Play](https://play.google.com/store/apps/details?id=com.HyperoidGames.ProjectEris) | _June 2022 - April 2024_**
 - Using **C#** and the **Unity Engine**, I created a mobile game that was trying to bring the best aspects of the looter-shooter genre over to the mobile platforms. 
 - **Led a team of freelancers** during various stages of development, coordinating between game design, art and programming. 
