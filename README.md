@@ -8,7 +8,7 @@ C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
 ## Frameworks
 .NET, Qt, Flask, Unity, NUnit
 ## General
-Stakeholder Management, Agile Methodologies, Test Driven Development
+Stakeholder Management, Agile Methodologies, Test Driven Development, Game Development
 
 ## Projects
 **Project Weplar - Mobile Game | iOS & Android | _May 2024 - Present_**
