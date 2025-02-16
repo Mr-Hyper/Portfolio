@@ -12,7 +12,7 @@ Stakeholder Management, Agile Methodologies, Test Driven Development
 
 ## Projects
 **Project Weplar - Mobile Game | iOS & Android | _May 2024 - Present_**
-- Using **C#** and the **Unity Engine**, I am creating a mobile game that is trying to be a combination of The Sims and Club Penguin, and bring it over to the mobile platforms.
+- Using **C#** and the **Unity Engine**, I am building a multiplayer game where you play as a mage that can engage in turn-based comabt to have magic battles with other players.
 
 [Learn more](ProjectWeplar.md)
 
