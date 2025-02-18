@@ -10,6 +10,14 @@ C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
 ## General
 Stakeholder Management, Agile Methodologies, Test Driven Development, Game Development
 
+## Work Experience
+**Audit Associate @ Deloitte | _Sept 2023 -  Present_**
+- Worked within teams to liaise with **Life Science & Healthcare clients** on **statutory audits**, **planning engagements** and **testing key balances**.
+- Was able to turn around working papers **10% faster** than previous audit team members.
+- Consistently produced high quality audit documentation, reducing **senior review times by 2 hours**.
+
+![First Month At Deloitte](https://github.com/user-attachments/assets/8e5351ab-1ec4-4af2-adab-9a0342a93c4d)
+
 ## Projects
 **Project Weplar - Mobile Game | iOS & Android | _May 2024 - Present_**
 - Using **C#** and the **Unity Engine**, my team and I are building a **multiplayer game** where you play as a mage that can engage in **turn-based combat** to have magic battles with other players. 
@@ -62,14 +70,6 @@ Stakeholder Management, Agile Methodologies, Test Driven Development, Game Devel
 ![Desktop Screenshot 2](https://github.com/user-attachments/assets/adfe84ee-3185-4f59-9ac2-12d8929faf61)
 ![Desktop Screenshot 3](https://github.com/user-attachments/assets/2c7932c3-d488-4e32-afe1-6a8fee6023f5)
 ![Desktop Screenshot 4](https://github.com/user-attachments/assets/0149cd14-15e5-4ae6-bdef-08e7d9fbd04f)
-
-## Work Experience
-**Audit Associate @ Deloitte | _Sept 2023 -  Present_**
-- Worked within teams to liaise with **Life Science & Healthcare clients** on **statutory audits**, **planning engagements** and **testing key balances**.
-- Was able to turn around working papers **10% faster** than previous audit team members.
-- Consistently produced high quality audit documentation, reducing **senior review times by 2 hours**.
-
-![First Month At Deloitte](https://github.com/user-attachments/assets/8e5351ab-1ec4-4af2-adab-9a0342a93c4d)
 
 ## Education
 **ACA @ Institute Of Chartered Accountants In England And Wales | _Sept 2023 - Present_**
