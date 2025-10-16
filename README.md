@@ -1,7 +1,6 @@
 # Welcome To My Portfolio
 
 ### [Visit My Website](https://hyperoid.net/)
-### [Connect With Me On LinkedIn](https://www.linkedin.com/in/emadh-miah/)
 
 ## Languages
 C, C++, C#, Java, Python, Visual Basic, HTML, Javascript, SQL
