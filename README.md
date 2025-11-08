@@ -1,4 +1,4 @@
-# Welcome To My Portfolio
+<img width="1920" height="861" alt="Wave Screenshot 3" src="https://github.com/user-attachments/assets/50f5ca35-4ca8-49a9-9b87-d8633118e316" /># Welcome To My Portfolio
 
 ## Languages
 C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
@@ -21,6 +21,11 @@ C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 
 [Learn more](ProjectWeplar.md)
 
+<img width="1080" height="498" alt="image" src="https://github.com/user-attachments/assets/306e0a4c-ca82-4e84-bf18-4209f49d6df9" />
+<img width="1080" height="497" alt="image" src="https://github.com/user-attachments/assets/ebf678f3-fbe2-471e-8395-7f7f3e347d7a" />
+<img width="1080" height="494" alt="image" src="https://github.com/user-attachments/assets/796d67c3-f6f1-4db0-ab7d-b3fa05888e55" />
+
+
 **Cyber - Mobile Game | [Download On iOS](https://apps.apple.com/us/app/cyber-project-eris/id6447302602) | [Download On Google Play](https://play.google.com/store/apps/details?id=com.HyperoidGames.ProjectEris) | _June 2022 - April 2024_**
 - Self-taught in **C#** and the **Unity Engine** to create a mobile game for **iOS** and **Android**.
 - **Led the project** with friends, **taking ownership over design and programming of AI pathfinding**, **behavior systems** throughout the development of the project’s life cycle.
@@ -37,6 +42,12 @@ C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 - Followed **agile development practices** with **2-week sprints** and a **review at the end of each sprint**.
 - Implemented **user accounts** and **payment processing systems**.
 - Project was discontinued due to strong market competition from established companies like **Lime** and **Uber**.
+
+<img width="1430" height="934" alt="Wave Screenshot 4" src="https://github.com/user-attachments/assets/d6f8e1ba-c9d9-4690-8517-ab958ff568ec" />
+<img width="1377" height="861" alt="Wave Screenshot 3" src="https://github.com/user-attachments/assets/74612ade-e04b-4b12-9f81-d5d221dd26fe" />
+<img width="1261" height="1034" alt="Wave Screenshot 1" src="https://github.com/user-attachments/assets/c691aef9-4239-4d84-90a3-aacea4e20683" />
+<img width="1367" height="859" alt="Wave Screenshot 2" src="https://github.com/user-attachments/assets/b6fbb9a7-54d8-4a21-9d39-ef042bcbfbd6" />
+
 
 **Hyper Books - Web Application | _Jan 2022 - Feb 2022_**
 - Designed and built a **full-stack Python web application** using the **Flask framework** and an **SQLite relational database**.
@@ -57,11 +68,3 @@ C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 ![Desktop Screenshot 2](https://github.com/user-attachments/assets/adfe84ee-3185-4f59-9ac2-12d8929faf61)
 ![Desktop Screenshot 3](https://github.com/user-attachments/assets/2c7932c3-d488-4e32-afe1-6a8fee6023f5)
 ![Desktop Screenshot 4](https://github.com/user-attachments/assets/0149cd14-15e5-4ae6-bdef-08e7d9fbd04f)
-
-## Education
-
-**A-Levels @ [REDACTED] | _Sept 2018 - Aug 2020_**
-- Computer Science, Mathematics, Physics
-
-**GCSEs @ [REDACTED] | _Sept 2013 - Aug 2018_**
-- Mathematics, Biology, Chemistry, Physics, English Language, English Literature, Computer Science, Geography, Spanish
