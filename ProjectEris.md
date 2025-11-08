@@ -1,7 +1,7 @@
 # Cyber - Mobile Game
-- Using **C#** and the **Unity Engine**, I created a mobile game that was trying to bring the best aspects of the looter-shooter genre over to the mobile platforms. 
-- **Led a team of freelancers** during various stages of development, coordinating between game design, art and programming. 
-- **Released prototype in April 2023, iterated and launched demo in April 2024**. **Organically grew to 100+ downloads on each platform** soon after launch. Received mixed reviews.
+- Self-taught in **C#** and the **Unity Engine** to create a mobile game for **iOS** and **Android**.
+- **Led the project** with friends, **taking ownership over design and programming of AI pathfinding**, **behavior systems** throughout the development of the project’s life cycle.
+- **Released the game demo in April 2024**, **reaching 100+ organic downloads per platform** soon after release and receiving mixed reviews.
 
 ![Cyber Banner Wallpaper](https://github.com/user-attachments/assets/11b3b71b-158e-455a-abde-84571337ded2)
 ![Phone Screenshot 2](https://github.com/user-attachments/assets/2b8ba8c7-a0dc-479d-a478-e994a84eff49)
