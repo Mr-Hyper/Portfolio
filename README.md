@@ -14,7 +14,7 @@ C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 ![First Month At Deloitte](https://github.com/user-attachments/assets/8e5351ab-1ec4-4af2-adab-9a0342a93c4d)
 
 ## Projects
-**Project Weplar - Mobile Game | iOS & Android | _May 2024 - Oct 2025_**
+**Project Weplar - Mobile Game | [Test It Out On iOS](https://testflight.apple.com/join/vEDKazyP) | [Test It Out On Google Play](https://play.google.com/apps/testing/com.Hyperoid.Weplar) | _May 2024 - Oct 2025_**
 - Using **C#** and the **Unity Engine**, my team and I are building a **multiplayer game** where you play as a mage that can engage in **turn-based combat** to have magic battles with other players. 
 - Compared to my previous project, I am **operating this one at very minimal to no cost – no money has been spent on developing game prototypes**. 
 - **Tested 5 prototypes with focus groups** to validate game features, which has **made us pivot the initial game concept 2 times** thus far. 
