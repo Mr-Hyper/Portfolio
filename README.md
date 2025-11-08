@@ -1,5 +1,3 @@
-<img width="1920" height="861" alt="Wave Screenshot 3" src="https://github.com/user-attachments/assets/50f5ca35-4ca8-49a9-9b87-d8633118e316" /># Welcome To My Portfolio
-
 ## Languages
 C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 ## Frameworks
@@ -14,17 +12,14 @@ C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 ![First Month At Deloitte](https://github.com/user-attachments/assets/8e5351ab-1ec4-4af2-adab-9a0342a93c4d)
 
 ## Projects
-**Project Weplar - Mobile Game | [Test It Out On iOS](https://testflight.apple.com/join/vEDKazyP) | [Test It Out On Google Play](https://play.google.com/apps/testing/com.Hyperoid.Weplar) | _May 2024 - Oct 2025_**
-- Using **C#** and the **Unity Engine**, my team and I are building a **multiplayer game** where you play as a mage that can engage in **turn-based combat** to have magic battles with other players. 
-- Compared to my previous project, I am **operating this one at very minimal to no cost – no money has been spent on developing game prototypes**. 
+**Project Weplar - Mobile Game | [Test On iOS](https://testflight.apple.com/join/vEDKazyP) | [Test On Google Play](https://play.google.com/apps/testing/com.Hyperoid.Weplar) | _May 2024 - Oct 2025_**
+- Using **C#** and the **Unity Engine**, my team and I are iterating on our previous project and experimenting with 3D. 
+- Compared to the previous project, I am **operating this one at very minimal to no cost – no money has been spent on developing game prototypes**.
 - **Tested 5 prototypes with focus groups** to validate game features, which has **made us pivot the initial game concept 2 times** thus far. 
 
 [Learn more](ProjectWeplar.md)
 
-<img width="1080" height="498" alt="image" src="https://github.com/user-attachments/assets/306e0a4c-ca82-4e84-bf18-4209f49d6df9" />
-<img width="1080" height="497" alt="image" src="https://github.com/user-attachments/assets/ebf678f3-fbe2-471e-8395-7f7f3e347d7a" />
 <img width="1080" height="494" alt="image" src="https://github.com/user-attachments/assets/796d67c3-f6f1-4db0-ab7d-b3fa05888e55" />
-
 
 **Cyber - Mobile Game | [Download On iOS](https://apps.apple.com/us/app/cyber-project-eris/id6447302602) | [Download On Google Play](https://play.google.com/store/apps/details?id=com.HyperoidGames.ProjectEris) | _June 2022 - April 2024_**
 - Self-taught in **C#** and the **Unity Engine** to create a mobile game for **iOS** and **Android**.
@@ -34,8 +29,6 @@ C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 [Learn more](ProjectEris.md)
 
 ![Cyber Banner Wallpaper](https://github.com/user-attachments/assets/11b3b71b-158e-455a-abde-84571337ded2)
-![Phone Screenshot 2](https://github.com/user-attachments/assets/2b8ba8c7-a0dc-479d-a478-e994a84eff49)
-![Phone Screenshot 4](https://github.com/user-attachments/assets/4db23bde-58ef-4116-a4d1-1c911868f780)
 
 **Wave - Mobile Application | _Jan 2022 - May 2022_**
 - Prototyped a mobile application in **Java** that allowed users to **hire scooters around their city**.
