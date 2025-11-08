@@ -2,9 +2,9 @@
 
 [Project Report](https://github.com/user-attachments/files/17706909/A2.Project.Report.pdf)
 
-- Using **C#** and the **Unity Engine**, my team and I are iterating on our previous project and experimenting with 3D. 
-- Compared to the previous project, I am **operating this one at very minimal to no cost – no money has been spent on developing game prototypes**.
-- **Tested 5 prototypes with focus groups** to validate game features, which has **made us pivot the initial game concept 2 times** thus far.
+- Developed a restaurant point-of-sale system using **Visual Basic** and **.NET framework**.
+- Implemented core functions such as **order taking**, **receipt printing**, cash and **card payments handling**.
+- Ranked in the **top 5 for best project within my year group**.
 
 <img width="1080" height="495" alt="image" src="https://github.com/user-attachments/assets/2d9eab2f-1eca-4e15-88ae-1971ac01c638" />
 <img width="1080" height="498" alt="image" src="https://github.com/user-attachments/assets/306e0a4c-ca82-4e84-bf18-4209f49d6df9" />
