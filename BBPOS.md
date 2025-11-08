@@ -6,7 +6,7 @@
 - Implemented core functions such as **order taking**, **receipt printing**, cash and **card payments handling**.
 - Ranked in the **top 5 for best project within my year group**.
 
-<img width="1080" height="495" alt="image" src="https://github.com/user-attachments/assets/2d9eab2f-1eca-4e15-88ae-1971ac01c638" />
-<img width="1080" height="498" alt="image" src="https://github.com/user-attachments/assets/306e0a4c-ca82-4e84-bf18-4209f49d6df9" />
-<img width="1080" height="497" alt="image" src="https://github.com/user-attachments/assets/ebf678f3-fbe2-471e-8395-7f7f3e347d7a" />
-<img width="1080" height="494" alt="image" src="https://github.com/user-attachments/assets/796d67c3-f6f1-4db0-ab7d-b3fa05888e55" />
+![Desktop Screenshot 1](https://github.com/user-attachments/assets/3c64605b-4bc7-4ca7-bb29-a2247bb14515)
+![Desktop Screenshot 2](https://github.com/user-attachments/assets/adfe84ee-3185-4f59-9ac2-12d8929faf61)
+![Desktop Screenshot 3](https://github.com/user-attachments/assets/2c7932c3-d488-4e32-afe1-6a8fee6023f5)
+![Desktop Screenshot 4](https://github.com/user-attachments/assets/0149cd14-15e5-4ae6-bdef-08e7d9fbd04f)
