@@ -36,11 +36,9 @@ C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 - Implemented **user accounts** and **payment processing systems**.
 - Project was discontinued due to strong market competition from established companies like **Lime** and **Uber**.
 
-<img width="1430" height="934" alt="Wave Screenshot 4" src="https://github.com/user-attachments/assets/d6f8e1ba-c9d9-4690-8517-ab958ff568ec" />
-<img width="1377" height="861" alt="Wave Screenshot 3" src="https://github.com/user-attachments/assets/74612ade-e04b-4b12-9f81-d5d221dd26fe" />
-<img width="1261" height="1034" alt="Wave Screenshot 1" src="https://github.com/user-attachments/assets/c691aef9-4239-4d84-90a3-aacea4e20683" />
-<img width="1367" height="859" alt="Wave Screenshot 2" src="https://github.com/user-attachments/assets/b6fbb9a7-54d8-4a21-9d39-ef042bcbfbd6" />
+[Learn more](Wave.md)
 
+<img width="1430" height="934" alt="Wave Screenshot 4" src="https://github.com/user-attachments/assets/d6f8e1ba-c9d9-4690-8517-ab958ff568ec" />
 
 **Hyper Books - Web Application | _Jan 2022 - Feb 2022_**
 - Designed and built a **full-stack Python web application** using the **Flask framework** and an **SQLite relational database**.
@@ -57,7 +55,6 @@ C, C++, C#, Java, Python, Visual Basic, HTML, CSS, Javascript, SQL
 - Implemented core functions such as **order taking**, **receipt printing**, cash and **card payments handling**.
 - Ranked in the **top 5 for best project within my year group**.
 
+[Learn more](BBPOS.md)
+
 ![Desktop Screenshot 1](https://github.com/user-attachments/assets/3c64605b-4bc7-4ca7-bb29-a2247bb14515)
-![Desktop Screenshot 2](https://github.com/user-attachments/assets/adfe84ee-3185-4f59-9ac2-12d8929faf61)
-![Desktop Screenshot 3](https://github.com/user-attachments/assets/2c7932c3-d488-4e32-afe1-6a8fee6023f5)
-![Desktop Screenshot 4](https://github.com/user-attachments/assets/0149cd14-15e5-4ae6-bdef-08e7d9fbd04f)
